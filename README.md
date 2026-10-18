@@ -12,7 +12,7 @@ La recherche tabou propose les livraisons suivantes. Les demandes et les capacit
 | D2 | 1 | 0 | 8 | 9 / 9 |
 | **Demande reçue** | **4 / 4** | **5 / 5** | **8 / 8** | |
 
-![Schéma des livraisons et des quantités par dépôt](images/ex2transport.svg)
+![Schéma des livraisons et des quantités par dépôt](exercice2_transport.svg)
 
 **Coût total : 52** unités monétaires.
 
@@ -22,7 +22,7 @@ Les tirets de la matrice sont considérés comme des liaisons interdites. La rec
 
 `1 → 8 → 3 → 7 → 6 → 5 → 4 → 2 → 1`
 
-![Tour obtenu par recherche tabou, avec les coûts des arêtes](images/ex3tour.svg)
+![Tour obtenu par recherche tabou, avec les coûts des arêtes](images/exercice3_tour.svg)
 
 Le coût de ce tour est **98**. Le recuit simulé est exécuté pendant les **5 itérations** demandées; avec la graine fixée dans le programme, le meilleur tour conservé a un coût de **103**.
 
