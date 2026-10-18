@@ -22,7 +22,7 @@ Les tirets de la matrice sont considérés comme des liaisons interdites. La rec
 
 `1 → 8 → 3 → 7 → 6 → 5 → 4 → 2 → 1`
 
-![Tour obtenu par recherche tabou, avec les coûts des arêtes](images/exercice3_tour.svg)
+![Tour obtenu par recherche tabou, avec les coûts des arêtes](exercice3_tour.svg)
 
 Le coût de ce tour est **98**. Le recuit simulé est exécuté pendant les **5 itérations** demandées; avec la graine fixée dans le programme, le meilleur tour conservé a un coût de **103**.
 
